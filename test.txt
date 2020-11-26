@@ -1,1 +1,8 @@
 学习推送本地文件到远程仓库
+现在学习创建git分支并推送到远程库
+步骤：
+1.git branch
+2.git branch -a
+3.git checkout -b branchBug1
+4.vim test.txt
+5.
