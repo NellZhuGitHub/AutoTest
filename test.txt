@@ -4,5 +4,9 @@
 1.git branch
 2.git branch -a
 3.git checkout -b branchBug1
+4.git push --set-upstream origin branchBug1
 4.vim test.txt
-5.
+5.git add test.txt
+6.git commit -m "修改test.txt，并提交到分支中"
+7.查看远程仓库是否存在分支和修改后的文件
+8.cat test.txt
