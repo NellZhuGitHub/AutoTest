@@ -1,3 +1,13 @@
 学习推送本地文件到远程仓库
 我是在创建branchBug1分支后，已经修改过test.txt文件后，切换回master分支后，再修改test.txt文件的，从此可以看出分支文件的改变不影响master分支的文件
-
+现在学习创建git分支并推送到远程库
+步骤：
+1.git branch
+2.git branch -a
+3.git checkout -b branchBug1
+4.git push --set-upstream origin branchBug1
+4.vim test.txt
+5.git add test.txt
+6.git commit -m "修改test.txt，并提交到分支中"
+7.查看远程仓库是否存在分支和修改后的文件
+8.cat test.txt
