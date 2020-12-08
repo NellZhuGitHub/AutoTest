@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="test-parameter">
+
+    <test name="test1">
+        <parameter name="name" value="zhuxh" />
+        <parameter name="age" value="18" />
+
+        <classes>
+            <class name="com.autotest.testng.parameter.TestParameterXml" />
+        </classes>
+    </test>
+
+</suite>

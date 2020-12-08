@@ -11,3 +11,8 @@
 6.git commit -m "修改test.txt，并提交到分支中"
 7.查看远程仓库是否存在分支和修改后的文件
 8.cat test.txt
+
+
+使用idea工具，并配置Git,进行git add, git commit -m , git push
+那么久看i
+

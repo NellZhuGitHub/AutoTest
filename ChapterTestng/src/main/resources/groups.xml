@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="testAll">
+
+    <test name="final">
+        <classes>
+            <class name="com.autotest.testng.groups.GroupsOnClass"></class>
+            <class name="com.autotest.testng.groups.GroupsOnMethod"></class>
+        </classes>
+    </test>
+
+    <test name="selenium">
+
+        <groups>
+            <run>
+                <include name="mysql" />
+            </run>
+        </groups>
+
+        <classes>
+            <class name="com.autotest.testng.groups.GroupsOnMethod" />
+            <class name="com.autotest.testng.groups.GroupsOnClass" />
+        </classes>
+
+    </test>
+
+</suite>

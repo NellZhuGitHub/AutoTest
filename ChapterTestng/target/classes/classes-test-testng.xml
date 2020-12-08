@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Test-class Suite" parallel="classes" thread-count="2">
+    <test name="multi-thread-class">
+        <classes>
+            <class name="com.autotest.testng.multiThread.MultiThreadXmlOne" />
+            <class name="com.autotest.testng.multiThread.MultiThreadXmlTwo" />
+        </classes>
+    </test>
+</suite>

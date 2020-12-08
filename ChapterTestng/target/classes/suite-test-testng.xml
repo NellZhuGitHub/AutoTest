@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Test-class suite" parallel="tests" thread-count="2">
+    <test name="test-method-1">
+        <parameter name="test-name" value="test-method One"></parameter>
+        <classes>
+            <class name="com.autotest.testng.multiThread.parallelSuiteTest" />
+        </classes>
+    </test>
+    <test name="test-method-2">
+        <parameter name="test-name" value="test-method Two" />
+        <classes>
+            <class name="com.autotest.testng.multiThread.parallelSuiteTest" />
+        </classes>
+    </test>
+</suite>

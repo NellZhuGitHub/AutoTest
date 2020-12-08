@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="TestAll">
+    <test name="case1">
+        <classes>
+            <class name="com.autotest.testng.TestBasicAnnotation"></class>
+            <class name="com.autotest.testng.BasicAnnotation"></class>
+        </classes>
+    </test>
+    <test name="case2">
+        <classes>
+            <class name="com.autotest.testng.TestBasicAnnotation"></class>
+            <class name="com.autotest.testng.BasicAnnotation"></class>
+        </classes>
+    </test>
+</suite>

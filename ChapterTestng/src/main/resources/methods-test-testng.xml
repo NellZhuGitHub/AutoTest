@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="multiThread" parallel="methods" thread-count="2">
+<test name="test-method test">
+    <classes>
+        <class name="com.autotest.testng.multiThread.MultiThreadXml" />
+    </classes>
+</test>
+</suite>
