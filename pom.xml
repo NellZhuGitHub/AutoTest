@@ -5,16 +5,12 @@
 <modelVersion>4.0.0</modelVersion>
 
 <groupId>com.autotest.code</groupId>
-<artifactId>ChapterTestng</artifactId>
-<version>1.0-SNAPSHOT</version>
-<dependencies>
-    <dependency>
-        <groupId>org.testng</groupId>
-        <artifactId>testng</artifactId>
-        <version>7.0.0</version>
-        <scope>compile</scope>
-    </dependency>
-</dependencies>
+<artifactId>AutoTest</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>DevInterface</module>
+    </modules>
 
 
 </project>
