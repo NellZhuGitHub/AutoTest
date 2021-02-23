@@ -1,44 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35c8ec9d-29cc-418b-9452-46ff39a25cf7" name="Default Changelist" comment="添加一个hello.html文件，测试idea配置git是否成功">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/BasicAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/DependTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/IgnoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/TestBasicAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/exception/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/exception/OrderBo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/exception/OrderNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/exception/OrderSaveException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/exception/OrderUpdateException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/exception/TestCheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/exception/TestRuntime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/groups/GroupsOnClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/groups/GroupsOnMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThreadXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThreadXmlOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThreadXmlTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/parallelSuiteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/parameter/TestDataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/parameter/TestParameterXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/suite/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/suite/PayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/suite/SuiteConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/resources/classes-test-testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/resources/groups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/resources/methods-test-testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/resources/parameter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/resources/suite-test-testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/resources/suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterTestng/src/main/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    <list default="true" id="35c8ec9d-29cc-418b-9452-46ff39a25cf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DevInterface/src/main/java/com/course/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevInterface/src/main/java/com/course/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevInterface/src/main/java/com/course/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevInterface/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevInterface/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevInterface/src/main/resources/mapper/mysql.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevInterface/src/main/resources/mapper/mysql.xml.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevInterface/src/main/resources/mybaits-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/ChapterTestng/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/DevInterface/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +33,71 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThreadXml.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="32" />
+            <state relative-caret-position="285">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DevInterface/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DevInterface/src/main/resources/logback.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DevInterface/src/main/resources/mybaits-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DevInterface/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DevInterface/src/main/java/com/course/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DevInterface/src/main/java/com/course/config/SwaggerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,91 +106,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThreadXmlOne.java">
+        <entry file="file://$PROJECT_DIR$/DevInterface/src/main/java/com/course/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="208">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThreadXmlTwo.java">
+        <entry file="file://$PROJECT_DIR$/DevInterface/src/main/resources/mapper/mysql.xml.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="8" selection-start-line="8" selection-end-line="30" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="42" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/resources/methods-test-testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-            </state>
-          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ChapterTestng/pom.xml">
+        <entry file="file://$PROJECT_DIR$/DevInterface/src/main/resources/mapper/mysql.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/resources/classes-test-testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/parallelSuiteTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="897">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/resources/suite-test-testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/parameter/TestDataProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="835">
+              <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -162,8 +138,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -176,7 +152,6 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/hello.html" />
         <option value="$PROJECT_DIR$/test.txt" />
-        <option value="$PROJECT_DIR$/ChapterTestng/pom.xml" />
         <option value="$USER_HOME$/.m2/settings.xml" />
         <option value="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/TestBasicAnnotation.java" />
         <option value="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/testng.fxml" />
@@ -210,6 +185,17 @@
         <option value="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/parallelSuiteTest.java" />
         <option value="$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThread.java" />
         <option value="$PROJECT_DIR$/ChapterTestng/src/main/resources/methods-test-testng.xml" />
+        <option value="$PROJECT_DIR$/ChapterTestng/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/DevInterface/pom.xml" />
+        <option value="$PROJECT_DIR$/DevInterface/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/DevInterface/src/main/resources/mybaits-config.xml" />
+        <option value="$PROJECT_DIR$/DevInterface/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/DevInterface/src/main/java/Application.java" />
+        <option value="$PROJECT_DIR$/DevInterface/src/main/java/com/course/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/DevInterface/src/main/java/com/course/model/User.java" />
+        <option value="$PROJECT_DIR$/DevInterface/src/main/resources/mapper/mysql.xml.fxml" />
+        <option value="$PROJECT_DIR$/DevInterface/src/main/resources/mapper/mysql.xml" />
       </list>
     </option>
   </component>
@@ -220,7 +206,13 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="227" />
     <option name="y" value="187" />
     <option name="width" value="1400" />
@@ -231,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,66 +234,83 @@
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterTestng" type="462c0819:PsiDirectoryNode" />
+              <item name="DevInterface" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterTestng" type="462c0819:PsiDirectoryNode" />
+              <item name="DevInterface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterTestng" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterTestng" type="462c0819:PsiDirectoryNode" />
+              <item name="DevInterface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterTestng" type="462c0819:PsiDirectoryNode" />
+              <item name="DevInterface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterTestng" type="462c0819:PsiDirectoryNode" />
+              <item name="DevInterface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-              <item name="parameter" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="DevInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="DevInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="DevInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607393361050" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (3)" />
-    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\autotest\AutoTest\DevInterface\src\main\resources\mapper" />
+      <recent name="D:\autotest\AutoTest" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.autotest.testng" />
     </key>
@@ -320,7 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/Java-interface-automation/AutoTest/ChapterTestng/src/main/resources/suite-test-testng.xml">
+  <component name="RunManager">
     <configuration name="D:/Java-interface-automation/AutoTest/ChapterTestng/src/main/resources/classes-test-testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ChapterTestng" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/ChapterTestng/src/main/resources/classes-test-testng.xml" />
@@ -383,15 +393,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="TestNG.D:/Java-interface-automation/AutoTest/ChapterTestng/src/main/resources/suite-test-testng.xml" />
-        <item itemvalue="TestNG.parallelSuiteTest" />
-        <item itemvalue="TestNG.D:/Java-interface-automation/AutoTest/ChapterTestng/src/main/resources/classes-test-testng.xml" />
-        <item itemvalue="TestNG.D:/Java-interface-automation/AutoTest/ChapterTestng/src/main/resources/methods-test-testng.xml" />
-        <item itemvalue="TestNG.MultiThreadXml" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -447,9 +448,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="227" y="187" width="1400" height="701" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2141791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11565978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -465,18 +467,28 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49850747" visible="true" weight="0.38447973" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.29530916" side_tool="true" weight="0.41323212" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49925372" weight="0.329806" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49925372" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48134327" weight="0.24096386" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3298887" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32985073" />
     </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -522,18 +534,15 @@
     <MESSAGE value="添加一个hello.html文件，测试idea配置git是否成功" />
     <option name="LAST_COMMIT_MESSAGE" value="添加一个hello.html文件，测试idea配置git是否成功" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/hello.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -774,7 +783,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThreadXmlOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
+        <state relative-caret-position="513">
           <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -784,7 +793,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThreadXmlTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="114">
           <caret line="8" selection-start-line="8" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -794,42 +803,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/resources/methods-test-testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="114">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/resources/classes-test-testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
+        <state relative-caret-position="19">
           <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/parallelSuiteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
+        <state relative-caret-position="741">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/resources/suite-test-testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="95">
           <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/multiThread/MultiThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="133">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChapterTestng/src/main/java/com/autotest/testng/parameter/TestDataProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
+        <state relative-caret-position="646">
           <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -839,8 +848,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ChapterTestng/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="266">
+          <caret line="14" column="30" selection-start-line="13" selection-start-column="32" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevInterface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevInterface/src/main/resources/mybaits-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevInterface/src/main/resources/a.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevInterface/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevInterface/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevInterface/src/main/java/com/course/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevInterface/src/main/java/com/course/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevInterface/src/main/java/com/course/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevInterface/src/main/resources/mapper/mysql.xml.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevInterface/src/main/resources/mapper/mysql.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -884,7 +984,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -896,7 +996,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ChapterTestng</last-edited>
+          <last-edited>DevInterface</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -921,7 +1021,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -932,5 +1032,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>
